@@ -16,5 +16,5 @@ This chrome extension fetches recipe from YouTube description and creates a shop
 11. You will also see a block listing ingredients that were not found on the quick commerce website or were not added to cart.
 More enhancemnets to come.
 
-##Demo 
+## Demo 
 https://www.youtube.com/watch?v=vbTAdCQov2c
