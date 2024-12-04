@@ -1,4 +1,4 @@
-#Recipe-to-Reality
+# Recipe-to-Reality
 
 This chrome extension fetches recipe from YouTube description and creates a shopping list with help of AI. It can also provide suggestion for alternative ingredients using AI if needed. Remove any ingrdient you might already have from the shopping list. Once user finalises the shopping list it prepares a cart with all ingredients on a quick commerce website (Blinkit). It displays the ingredients that were not found and not added to the cart.
 
